@@ -10,4 +10,5 @@
 |play002|错误和异常的处理|
 |play003|mock|
 |play004|context|
+|play005|the behavior of channel|
 |play999|平时写的代码|
