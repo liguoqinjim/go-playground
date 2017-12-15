@@ -21,6 +21,6 @@ func main() {
 	th := &timeHandler{format: time.RFC1123}
 	mux.Handle("/time", th)
 
-	log.Println("listening...")
+	log.Println("Listening...")
 	http.ListenAndServe(":3000", mux)
 }
