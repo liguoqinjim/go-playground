@@ -16,4 +16,5 @@
 |play008|map并发访问|
 |play009|reflect|
 |play010|ServeMux解析|
+|play011|defer gotchas|
 |play999|平时写的代码|
