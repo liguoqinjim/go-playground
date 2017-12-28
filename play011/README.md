@@ -10,3 +10,4 @@
 
 #### 参考资料
  - https://blog.learngoprogramming.com/gotchas-of-defer-in-go-1-8d070894cb01 (onenote里面有笔记)
+ - https://blog.learngoprogramming.com/5-gotchas-of-defer-in-go-golang-part-ii-cc550f6ad9aa
