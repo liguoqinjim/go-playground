@@ -17,4 +17,5 @@
 |play009|reflect|
 |play010|ServeMux解析|
 |play011|defer gotchas|
+|play012|函数的接收者是值类型还是指针类型|
 |play999|平时写的代码|
