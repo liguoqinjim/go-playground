@@ -19,4 +19,5 @@
 |play011|defer gotchas|
 |play012|函数的接收者是值类型还是指针类型|
 |play013|golang/templates|
+|play014|golang里面的list(use slice as list in golang)|
 |play999|平时写的代码|
