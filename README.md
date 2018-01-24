@@ -21,4 +21,5 @@
 |play013|golang/templates|
 |play014|golang里面的list(use slice as list in golang)|
 |play015|for语句(遍历slice，map问题)|
-|play999|平时写的代码|
+|play016|随机数相关|
+|play017|变量作用域|
