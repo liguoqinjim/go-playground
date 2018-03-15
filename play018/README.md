@@ -4,3 +4,7 @@
 |---|---|
 |play001|int类型|
 |play002|struct|
+|play003|map|
+|play004|slice|
+
+#### 参考资料
