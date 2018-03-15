@@ -1,0 +1,8 @@
+### defer gotchas
+
+|实验|简介|
+|---|---|
+|lab001|Calling recover outside of a deferred func|
+
+#### 参考资料
+https://blog.learngoprogramming.com/5-gotchas-of-defer-in-go-golang-part-iii-36a1ab3d6ef1
