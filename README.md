@@ -25,3 +25,4 @@
 |play017|变量作用域|
 |play018|Go语言参数传递是传值还是传引用|
 |play019|defer gotchas|
+|play020|sync.map|
