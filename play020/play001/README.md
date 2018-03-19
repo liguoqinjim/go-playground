@@ -5,3 +5,6 @@
 
 #### 运行结果
 ![Imgur](https://i.imgur.com/FXUXIxW.png)
+
+#### 参考资料
+1. http://colobu.com/2017/07/11/dive-into-sync-Map/
