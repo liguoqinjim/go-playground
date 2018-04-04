@@ -27,3 +27,4 @@
 |play019|defer gotchas|
 |play020|sync.map|
 |play021|setting options|
+|play022|内存泄露|
