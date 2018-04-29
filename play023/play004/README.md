@@ -5,5 +5,6 @@
 |play001|array|
 
 #### 注意点
- - go test -cover
- - reflect.DeepEqual
+ - `go test -cover`，可以查看现在的测试覆盖率。不要盲目的追求100%的覆盖率，
+ 只要是按照TDD的开发的话，覆盖率应该都是可以的
+ - reflect.DeepEqual，这个在使用的时候要注意下，这个是不判断type的，也就是所有的数据类型都可以调用。所以我们调用的时候要注意一下
