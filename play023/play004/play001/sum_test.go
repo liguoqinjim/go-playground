@@ -1,4 +1,4 @@
-package sum
+package play001
 
 import "testing"
 
