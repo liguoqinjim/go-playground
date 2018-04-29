@@ -1,5 +1,4 @@
-### Structs,methods&interfaces
+###
 
-|实验|简介|
-|---|---|
-|play001||
+#### 注意点
+ - %+v,%#v的区别，两个的format不一样

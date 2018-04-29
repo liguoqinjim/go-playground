@@ -1,4 +1,4 @@
-package shapes
+package play005
 
 import "testing"
 
@@ -26,7 +26,7 @@ func TestArea(t *testing.T) {
 		got := v.shape.Area()
 
 		if got != v.want {
-			t.Errorf("got %.2f want %.2f", got, v.want)
+			t.Errorf("%#v ,got %.2f want %.2f", v.shape, got, v.want)
 		}
 	}
 }

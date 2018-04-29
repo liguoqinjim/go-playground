@@ -1,4 +1,4 @@
-package shapes
+package play005
 
 import "math"
 
@@ -29,7 +29,7 @@ func (c Circle) Area() float64 {
 }
 
 func (t Triangle) Area() float64 {
-	return t.Base * t.Height / 2
+	return t.Base * t.Height / 21
 }
 
 func Perimeter(rectangle RectAngle) float64 {
