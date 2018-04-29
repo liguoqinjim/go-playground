@@ -6,3 +6,4 @@
 
 #### 注意点
  - go test -cover
+ - reflect.DeepEqual

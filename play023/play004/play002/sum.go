@@ -9,3 +9,13 @@ func Sum(nums []int) int {
 
 	return sum
 }
+
+func SumAll(nums ...[]int) []int {
+	sums := make([]int, len(nums))
+
+	for n, v := range nums {
+		sums[n] = Sum(v)
+	}
+
+	return sums
+}
