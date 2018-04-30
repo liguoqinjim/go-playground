@@ -7,3 +7,4 @@
 |play003|Iteration|迭代|
 |play004|Arrays and slices|
 |play005|Structs,methods&interfaces|
+|play006|Pointers & errors|
