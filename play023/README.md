@@ -11,3 +11,4 @@
 |play007|Dependency Injection|
 |play008|Mocking|
 |play009|Concurrency|
+|play010|Select|
