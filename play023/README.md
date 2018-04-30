@@ -8,3 +8,4 @@
 |play004|Arrays and slices|
 |play005|Structs,methods&interfaces|
 |play006|Pointers & errors|
+|play007|Dependency Injection|
