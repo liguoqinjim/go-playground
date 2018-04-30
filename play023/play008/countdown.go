@@ -23,14 +23,15 @@ func Countdown(out io.Writer, sleeper Sleeper) {
 	fmt.Fprint(out, finalWord)
 }
 
-type SpySleeper struct {
-	Calls int
+type ConfigurableSleeper struct {
+	Duration time.Duration
 }
 
-func (s *SpySleeper) Sleep() {
-	s.Calls++
+func (o *ConfigurableSleeper) Sleep() {
+	time.Sleep(o.Duration)
 }
 
 func main() {
-	Countdown(os.Stdout)
+	sleeper := &ConfigurableSleeper{Duration: 1 * time.Second}
+	Countdown(os.Stdout, sleeper)
 }
