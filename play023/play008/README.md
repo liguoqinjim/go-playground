@@ -6,3 +6,8 @@
  - SpySleeper里面的Calls，是用来记录调用了几次，在测试用例里面可以查看这个方法调用了几次，也就是实际逻辑中，停顿了几秒
  - 我们测试的时候只注意了，sleeper调用了4次，但是没有关注他是什么调用的。
  那么先调用了4次sleeper，然后再打印。测试也是能通过的。
+ - 我们又了一个spy，去记录打印和停顿的操作顺序。这样更准确的测试
+ - 关于mock的思考可以看参考资料里面的
+
+#### 参考资料
+ - https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/mocking#but-isnt-mocking-evil
