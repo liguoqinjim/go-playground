@@ -30,3 +30,4 @@
 |play022|内存泄露|
 |play023|learn-go-with-tests|TDD的方式写go的代码|
 |play024|GO函数选项模式|将一个函数的参数设置为可选的方法|
+|play025|channel的使用|
