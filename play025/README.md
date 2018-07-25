@@ -7,6 +7,7 @@
 |play003|从closed的channel里面read|
 |play004|channel的size|
 |play005|range|
+|play006|channel为nil下的一些行为|
 
 
 ## 注意点
